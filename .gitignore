@@ -129,4 +129,9 @@ dmypy.json
 .pyre/
 
 # Data Files
+<<<<<<< HEAD
 yellow_tripdata_2017-06.cs
+=======
+yellow_tripdata_2017-06.csv
+*.xlsx
+>>>>>>> main
